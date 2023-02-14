@@ -44,6 +44,7 @@ public class Variables {
         // Scanner class
         System.out.println("Enter your name: ");
         Scanner console = new Scanner(System.in);
+        // Type inference - Java 10
         var user = console.nextLine();
         System.out.println("user = " + user); // soutv + TAB -> Prints a value
 
