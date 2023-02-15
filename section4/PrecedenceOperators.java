@@ -2,7 +2,7 @@ package section4;
 
 public class PrecedenceOperators {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         var x = 5;
         var y = 10;
         var z = ++x + y--;
