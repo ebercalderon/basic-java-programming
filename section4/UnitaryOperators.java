@@ -19,6 +19,7 @@ public class UnitaryOperators {
         int f = ++e;//variable is incremented first, then its value is used
         System.out.println("e = " + e);
         System.out.println("f = " + f);
+
         //2.post increment (symbol after variable)
         int g = 5;
         int h = g++;//variable value is used first, then it is incremented
@@ -26,7 +27,7 @@ public class UnitaryOperators {
         System.out.println("h = " + h);
 
         //decrement
-        //1.pre decrement
+        //1.pre-decrement
         int i = 2;
         int j = --i;//variable is decremented first
         System.out.println("i = " + i);//already decremented
