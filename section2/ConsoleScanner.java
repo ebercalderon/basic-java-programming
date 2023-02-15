@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ConsoleScanner {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.println("Enter your name:");
         Scanner console = new Scanner(System.in);
         var user = console.nextLine();

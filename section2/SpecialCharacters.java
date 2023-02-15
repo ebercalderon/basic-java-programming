@@ -2,7 +2,7 @@ package section2;
 
 public class SpecialCharacters {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         var name = "Eber";
 
         System.out.println("New line: \n" + name);
