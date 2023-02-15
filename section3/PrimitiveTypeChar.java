@@ -2,7 +2,7 @@ package section3;
 
 public class PrimitiveTypeChar {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         char myCharacter = 'a';
         System.out.println("miCharacter = " + myCharacter);
 

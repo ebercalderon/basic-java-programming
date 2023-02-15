@@ -2,11 +2,11 @@ package section3;
 
 public class PrimitiveFloatingTypes {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         /*
             Floating point primitive types: float and double
         */
-        float numeroFloat = (float)3.4028235E38D;
+        float numeroFloat = (float) 3.4028235E38D;
         System.out.println("numeroFloat = " + numeroFloat);
         System.out.println("Minimum value for float type: " + Float.MIN_VALUE);
         System.out.println("Maximum value for float type: " + Float.MAX_VALUE);

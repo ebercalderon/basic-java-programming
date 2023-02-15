@@ -2,7 +2,7 @@ package section3;
 
 public class InferenceVar {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         var integerNumber = 10;
         System.out.println("integerNumber = " + integerNumber);
 
