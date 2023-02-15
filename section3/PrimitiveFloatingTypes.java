@@ -6,7 +6,6 @@ public class PrimitiveFloatingTypes {
         /*
             Floating point primitive types: float and double
         */
-
         float numeroFloat = (float)3.4028235E38D;
         System.out.println("numeroFloat = " + numeroFloat);
         System.out.println("Minimum value for float type: " + Float.MIN_VALUE);
