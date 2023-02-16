@@ -1,4 +1,4 @@
-package section7.classes;
+package section7;
 
 public class TestPerson {
 
