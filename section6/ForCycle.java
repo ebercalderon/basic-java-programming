@@ -10,7 +10,6 @@ public class ForCycle {
             counter++;
         }
 
-
         var counter = 0;
         do{
             System.out.println("counter = " + counter);
