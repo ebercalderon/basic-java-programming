@@ -6,7 +6,7 @@ public class SwitchStatement {
         int number = 10;
         String numberText = "Unknown value";
 
-        switch(number){
+        switch (number) {
             case 1:
                 numberText = "Number one";
                 break;
