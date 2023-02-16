@@ -3,6 +3,13 @@ package section6;
 public class BreakContinue {
 
     public static void main(String[] args) {
+        for( var counter = 0 ; counter < 3 ; counter++ ){
+            if( counter % 2 != 0){
+                continue; // go to next iteration
+            }
+            System.out.println("counter = " + counter);
+        }
+
         /*
         var counter = 0;
         while (counter < 3){
