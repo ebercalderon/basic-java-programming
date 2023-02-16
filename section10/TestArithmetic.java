@@ -16,6 +16,9 @@ public class TestArithmetic {
         System.out.println("arithmetic2 a: " + arithmetic2.a);
         System.out.println("arithmetic2 b: " + arithmetic2.b);
 
+        // arithmetic1 = null
+        // System.gc();
+
     }
 
     public static void myMethod() {
