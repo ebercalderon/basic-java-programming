@@ -6,11 +6,11 @@ public class Arithmetic {
     int b;
 
     // Empty constructor
-    public Arithmetic(){
+    public Arithmetic() {
         System.out.println("Executing constructor");
     }
 
-    public Arithmetic(int a, int b){
+    public Arithmetic(int a, int b) {
         this.a = a;
         this.b = b;
         System.out.println("Executing constructor with arg");
@@ -29,7 +29,7 @@ public class Arithmetic {
 
     }
 
-    public int addWithArguments(int a, int b){
+    public int addWithArguments(int a, int b) {
         this.a = a; // The argument an is assigned to the attribute this.a
         this.b = b;
         //return a + b;
