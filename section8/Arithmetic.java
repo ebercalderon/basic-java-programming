@@ -18,7 +18,7 @@ public class Arithmetic {
 
     }
 
-    public int addWithArguments(int a, int b){
+    public int addWithArguments(int a, int b) {
         this.a = a; // The argument an is assigned to the attribute this.a
         this.b = b;
         //return a + b;
