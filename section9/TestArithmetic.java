@@ -5,16 +5,12 @@ public class TestArithmetic {
     public static void main(String[] args) {
 
         Arithmetic arithmetic1 = new Arithmetic();
+        System.out.println("arithmetic1 a: " + arithmetic1.a);
+        System.out.println("arithmetic1 b: " + arithmetic1.b);
 
-        arithmetic1.a = 3;
-        arithmetic1.b = 2;
-        arithmetic1.add();
-
-        var result = arithmetic1.addWithReturn();
-        System.out.println("result from the test = " + result);
-
-        result = arithmetic1.addWithArguments(5, 8);
-        System.out.println("result using arguments = " + result);
+        Arithmetic arithmetic2 = new Arithmetic(5, 8);
+        System.out.println("arithmetic2 a: " + arithmetic2.a);
+        System.out.println("arithmetic2 b: " + arithmetic2.b);
 
     }
 

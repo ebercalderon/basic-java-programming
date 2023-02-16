@@ -10,6 +10,12 @@ public class Arithmetic {
         System.out.println("Executing constructor");
     }
 
+    public Arithmetic(int a, int b){
+        this.a = a;
+        this.b = b;
+        System.out.println("Executing constructor with arg");
+    }
+
     // Method
     public void add() {
         int result = a + b;
