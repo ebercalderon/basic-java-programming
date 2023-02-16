@@ -5,15 +5,15 @@ public class Arithmetic {
     int a;
     int b;
 
-    //Method
+    // Method
     public void add() {
         int result = a + b;
         System.out.println("result = " + result);
     }
 
     public int addWithReturn() {
-        // int result = a + b;
-        // return result;
+        //int result = a + b;
+        //return result;
         return this.a + this.b;
 
     }
