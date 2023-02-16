@@ -1,6 +1,6 @@
 package section6;
 
-public class DoWhileCycle {
+public class BreakContinue {
 
     public static void main(String[] args) {
         /*
@@ -9,13 +9,19 @@ public class DoWhileCycle {
             System.out.println("counter = " + counter);
             counter++;
         }
-        */
 
         var counter = 0;
-        do {
+        do{
             System.out.println("counter = " + counter);
             counter++;
-        } while (counter < 3);
+        }while( counter < 3);
+
+
+        for( var counter = 0 ; counter < 3 ; counter++ ){
+            System.out.println("counter = " + counter);
+        }
+
+        */
     }
 
 }

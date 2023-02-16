@@ -17,7 +17,7 @@ public class ForCycle {
         }while( counter < 3);
         */
 
-        for( var counter = 0 ; counter < 3 ; counter++ ){
+        for (var counter = 0; counter < 3; counter++) {
             System.out.println("counter = " + counter);
         }
     }
