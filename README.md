@@ -13,7 +13,7 @@
 This repository contains hands-on exercises for beginner to intermediate Java developers. Each example is associated
 with a Java programming exercise, and this repository provides solutions and samples for them
 
-## Getting Started
+## Requirements
 
 To get started with the exercises, follow these steps:
 
@@ -25,14 +25,21 @@ To get started with the exercises, follow these steps:
 
 This repository is structured as follows:
 
-- [Section 1](https://github.com/ebercalderon/basic-java-programming/tree/main/section1) - Hello world
-- [Section 2](https://github.com/ebercalderon/basic-java-programming/tree/main/section2) - Variable types
-- [Section 3](https://github.com/ebercalderon/basic-java-programming/tree/main/section3) - Primitive types in Java
-- [Section 4](https://github.com/ebercalderon/basic-java-programming/tree/main/section4) - Operators in Java
-- [Section 5](https://github.com/ebercalderon/basic-java-programming/tree/main/section5) - Control statements
-- [Section 6](https://github.com/ebercalderon/basic-java-programming/tree/main/section6) - Loops in Java
-- [Section 6](https://github.com/ebercalderon/basic-java-programming/tree/main/section7) - Classes
+### 1. Fundamentals
 
+- #### Getting Started
+    - [Section 1](https://github.com/ebercalderon/basic-java-programming/tree/main/section1) - Hello world
+- #### Variables and Operators
+    - [Section 2](https://github.com/ebercalderon/basic-java-programming/tree/main/section2) - Variable types
+    - [Section 3](https://github.com/ebercalderon/basic-java-programming/tree/main/section3) - Primitive data types
+    - [Section 4](https://github.com/ebercalderon/basic-java-programming/tree/main/section4) - Operators types
+- #### Control Statements and Loops
+    - [Section 5](https://github.com/ebercalderon/basic-java-programming/tree/main/section5) - Control statements
+    - [Section 6](https://github.com/ebercalderon/basic-java-programming/tree/main/section6) - Handling loops
+- #### Object-oriented programming (OOP)
+    - [Section 7](https://github.com/ebercalderon/basic-java-programming/tree/main/section7) - Creation of classes
+    - [Section 8](https://github.com/ebercalderon/basic-java-programming/tree/main/section8) - Class methods
+    - [Section 9](https://github.com/ebercalderon/basic-java-programming/tree/main/section9) - Constructors
 
 ## Screenshots
 
