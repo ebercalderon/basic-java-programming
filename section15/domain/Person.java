@@ -5,9 +5,13 @@ public class Person {
     private String name;
     private static int peopleCounter;
 
-    public Person(int idPerson, String name) {
-        this.idPerson = idPerson;
+    public Person(String name) {
         this.name = name;
+        // Increase the counter for each new object
+        Person.peopleCounter++;
+        // Assign the new value to the idPerson variable
+        this.idPerson = Person.peopleCounter;
+
     }
 
     public int getIdPerson() {
@@ -32,5 +36,13 @@ public class Person {
 
     public static void setPeopleCounter(int peopleCounter) {
         Person.peopleCounter = peopleCounter;
+    }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "idPerson=" + idPerson +
+                ", name='" + name + '\'' +
+                '}';
     }
 }
