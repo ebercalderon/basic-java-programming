@@ -35,7 +35,6 @@ public class Person {
         this.deleted = deleted;
     }
 
-    @Override
     public String toString() {
         return "Person{" +
                 "name='" + name + '\'' +
