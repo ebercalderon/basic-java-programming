@@ -10,8 +10,9 @@ public class TestInheritance {
     public static void main(String[] args) {
 //        Employee employee1 = new Employee("Carlos", 1025);
 //        System.out.println("employee1 = " + employee1);
+        var date = new Date();
 
-        Customer customer1 = new Customer("Juan", 'M', 18, "742 Evergreen Terrace", new Date(), true);
+        Customer customer1 = new Customer("Juan", 'M', 18, "742 Evergreen Terrace", date, true);
         System.out.println("customer1 = " + customer1);
     }
 

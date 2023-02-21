@@ -55,11 +55,13 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
-                ", gender=" + gender +
-                ", age=" + age +
-                ", address='" + address + '\'' +
-                '}';
+        final StringBuilder sb = new StringBuilder("Person{");
+        sb.append("name='").append(name).append('\'');
+        sb.append(", gender=").append(gender);
+        sb.append(", age=").append(age);
+        sb.append(", address='").append(address).append('\'');
+        sb.append(", ").append(super.toString());
+        sb.append('}');
+        return sb.toString();
     }
 }
