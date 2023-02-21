@@ -40,6 +40,34 @@ This repository is structured as follows:
     - [Section 7](https://github.com/ebercalderon/basic-java-programming/tree/main/section7) - Creation of classes
     - [Section 8](https://github.com/ebercalderon/basic-java-programming/tree/main/section8) - Class methods
     - [Section 9](https://github.com/ebercalderon/basic-java-programming/tree/main/section9) - Constructors
+    - [Section 10](https://github.com/ebercalderon/basic-java-programming/tree/main/section10) - Creation of classes
+    - [Section 14](https://github.com/ebercalderon/basic-java-programming/tree/main/section14) - Encapsulation
+    - [Section 15](https://github.com/ebercalderon/basic-java-programming/tree/main/section15) - Static context
+    - [Section 17](https://github.com/ebercalderon/basic-java-programming/tree/main/section17) - Overloading of
+      constructors
+- #### Functions
+    - [Section 11](https://github.com/ebercalderon/basic-java-programming/tree/main/section11) - Step by Value and by
+      Reference
+    - [Section 12](https://github.com/ebercalderon/basic-java-programming/tree/main/section12) - Use of the word return
+      and null
+    - [Section 13](https://github.com/ebercalderon/basic-java-programming/tree/main/section13) - Use of the word this
+- #### Data Management
+    - [Section 18](https://github.com/ebercalderon/basic-java-programming/tree/main/section18) - Packages
+    - [Section 19](https://github.com/ebercalderon/basic-java-programming/tree/main/section19) - Use of the word
+      final
+    - [Section 20](https://github.com/ebercalderon/basic-java-programming/tree/main/section20) - Array handling
+    - [Section 21](https://github.com/ebercalderon/basic-java-programming/tree/main/section21) - Matrix handling
+    - [Section 22](https://github.com/ebercalderon/basic-java-programming/tree/main/section22) - Class design
+- #### Inheritance
+    - [Section 16](https://github.com/ebercalderon/basic-java-programming/tree/main/section16) - Inheritance
+- #### Final Level Lab
+    - [Section 23](https://github.com/ebercalderon/basic-java-programming/tree/main/section23) - Conclusions
+
+### 2. Programming with Java
+
+- #### ...
+  - [...]() - ...
+
 
 ## Screenshots
 
