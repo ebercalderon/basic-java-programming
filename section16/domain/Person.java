@@ -1,4 +1,4 @@
-package section16;
+package section16.domain;
 
 public class Person {
     protected String name;
@@ -51,5 +51,15 @@ public class Person {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", gender=" + gender +
+                ", age=" + age +
+                ", address='" + address + '\'' +
+                '}';
     }
 }
