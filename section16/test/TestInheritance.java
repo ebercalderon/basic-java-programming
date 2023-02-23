@@ -1,7 +1,6 @@
 package section16.test;
 
 import section16.domain.Customer;
-import section16.domain.Employee;
 
 import java.util.Date;
 

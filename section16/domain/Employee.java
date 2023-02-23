@@ -1,6 +1,6 @@
 package section16.domain;
 
-public class Employee extends Person{
+public class Employee extends Person {
     private int idEmployee;
     private double salary;
     private static int employeeCounter;
