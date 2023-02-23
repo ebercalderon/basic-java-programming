@@ -11,7 +11,7 @@ public class TestFinal {
 
         //Person.CONSTANT = 5;
         System.out.println("CONSTANT = " + Person.CONSTANT);
-        
+
         final Person person1 = new Person();
         //person1 = new Person();
         person1.setName("Juan");
