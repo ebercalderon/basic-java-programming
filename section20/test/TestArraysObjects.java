@@ -12,6 +12,16 @@ public class TestArraysObjects {
 
         System.out.println("person 0 = " + people[0]);
         System.out.println("person 1 = " + people[1]);
+
+        for (int i = 0; i < people.length; i++) {
+            System.out.println("person element " + i + " = " + people[i]);
+        }
+
+        String[] fruits = {"Orange", "Banana", "Grape"};
+        for (int i = 0; i < fruits.length; i++) {
+            System.out.println("fruit " + i + " = " + fruits[i]);
+        }
+
     }
 
 }
