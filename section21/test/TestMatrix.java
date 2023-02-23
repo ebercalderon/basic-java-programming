@@ -24,7 +24,7 @@ public class TestMatrix {
             System.out.println();
         }
 
-        String[][] fruits = {{"Orange", "Lemon"},{"Strawberry", "Apple", "Coconut"}};
+        String[][] fruits = {{"Orange", "Lemon"}, {"Strawberry", "Apple", "Coconut"}};
         print(fruits);
 //        for (int i = 0; i < fruits.length; i++) {
 //            for (int j = 0; j < fruits[i].length; j++) {
@@ -39,10 +39,10 @@ public class TestMatrix {
 
     }
 
-    public static void print(Object matrix[][]){
+    public static void print(Object matrix[][]) {
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
-                System.out.println("matrix [" + i + "][" + j +"] : " + matrix[i][j]);
+                System.out.println("matrix [" + i + "][" + j + "] : " + matrix[i][j]);
             }
         }
     }
