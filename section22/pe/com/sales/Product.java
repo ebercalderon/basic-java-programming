@@ -6,7 +6,7 @@ public class Product {
     private double price;
     private static int counterProduct;
 
-    public Product(){
+    public Product() {
         this.idProduct = ++Product.counterProduct;
     }
 
