@@ -1,4 +1,4 @@
-package section22.pe.com.sales.test;
+package section22.test;
 
 import section22.pe.com.sales.*;
 
